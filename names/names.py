@@ -1,4 +1,5 @@
 import time
+#time complexity of O(n^2)
 
 start_time = time.time()
 
